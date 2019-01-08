@@ -1,0 +1,9 @@
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Domain\bin\Debug\netstandard2.0\SistemaProcessos.Domain.deps.json
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Domain\bin\Debug\netstandard2.0\SistemaProcessos.Domain.dll
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Domain\bin\Debug\netstandard2.0\SistemaProcessos.Domain.pdb
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Domain\obj\Debug\netstandard2.0\SistemaProcessos.Domain.csprojAssemblyReference.cache
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Domain\obj\Debug\netstandard2.0\SistemaProcessos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Domain\obj\Debug\netstandard2.0\SistemaProcessos.Domain.AssemblyInfoInputs.cache
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Domain\obj\Debug\netstandard2.0\SistemaProcessos.Domain.AssemblyInfo.cs
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Domain\obj\Debug\netstandard2.0\SistemaProcessos.Domain.dll
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Domain\obj\Debug\netstandard2.0\SistemaProcessos.Domain.pdb

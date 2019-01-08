@@ -1,0 +1,14 @@
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\bin\Debug\netstandard2.0\SistemaProcessos.Business.deps.json
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\bin\Debug\netstandard2.0\SistemaProcessos.Business.dll
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\bin\Debug\netstandard2.0\SistemaProcessos.Business.pdb
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\bin\Debug\netstandard2.0\SistemaProcessos.Data.dll
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\bin\Debug\netstandard2.0\SistemaProcessos.Domain.dll
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\bin\Debug\netstandard2.0\SistemaProcessos.Data.pdb
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\bin\Debug\netstandard2.0\SistemaProcessos.Domain.pdb
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\obj\Debug\netstandard2.0\SistemaProcessos.Business.csprojAssemblyReference.cache
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\obj\Debug\netstandard2.0\SistemaProcessos.Business.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\obj\Debug\netstandard2.0\SistemaProcessos.Business.AssemblyInfoInputs.cache
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\obj\Debug\netstandard2.0\SistemaProcessos.Business.AssemblyInfo.cs
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\obj\Debug\netstandard2.0\SistemaProcessos.Business.csproj.CopyComplete
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\obj\Debug\netstandard2.0\SistemaProcessos.Business.dll
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Business\obj\Debug\netstandard2.0\SistemaProcessos.Business.pdb

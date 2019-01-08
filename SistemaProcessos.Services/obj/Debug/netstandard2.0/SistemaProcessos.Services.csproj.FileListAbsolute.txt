@@ -1,0 +1,16 @@
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\bin\Debug\netstandard2.0\SistemaProcessos.Services.deps.json
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\bin\Debug\netstandard2.0\SistemaProcessos.Services.dll
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\bin\Debug\netstandard2.0\SistemaProcessos.Services.pdb
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\bin\Debug\netstandard2.0\SistemaProcessos.Business.dll
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\bin\Debug\netstandard2.0\SistemaProcessos.Data.dll
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\bin\Debug\netstandard2.0\SistemaProcessos.Domain.dll
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\bin\Debug\netstandard2.0\SistemaProcessos.Business.pdb
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\bin\Debug\netstandard2.0\SistemaProcessos.Data.pdb
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\bin\Debug\netstandard2.0\SistemaProcessos.Domain.pdb
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\obj\Debug\netstandard2.0\SistemaProcessos.Services.csprojAssemblyReference.cache
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\obj\Debug\netstandard2.0\SistemaProcessos.Services.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\obj\Debug\netstandard2.0\SistemaProcessos.Services.AssemblyInfoInputs.cache
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\obj\Debug\netstandard2.0\SistemaProcessos.Services.AssemblyInfo.cs
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\obj\Debug\netstandard2.0\SistemaProcessos.Services.csproj.CopyComplete
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\obj\Debug\netstandard2.0\SistemaProcessos.Services.dll
+C:\Users\Jefferson\source\repos\SistemaProcessos\SistemaProcessos.Services\obj\Debug\netstandard2.0\SistemaProcessos.Services.pdb
